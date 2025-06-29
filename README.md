@@ -45,7 +45,7 @@ Assignment 4 celebal technologies, complete admin dashboard.
  - at right-botton Settings options which on toggling can open up theme and mode option for dark and light mode.
 
 
-## Deployment
+## Deployment (render.com)
   https://celebalinternship.onrender.com
 
 ## Author
