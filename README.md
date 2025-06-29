@@ -33,7 +33,7 @@ Assignment 4 celebal technologies, complete admin dashboard.
 ## Testing
 
  This project includes basic unit tests using JEst and React Testing Library
- - Logging In
+ - Logging In(Can set any username and password because the Database isn't connected)
  - Cart, Chat, Notification, UserProfile options in navbar
  - Hide/Show Sidebar available
  - Ecommerce Page
